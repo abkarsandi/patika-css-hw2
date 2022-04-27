@@ -1,0 +1,43 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+}
+
+.search-bar{
+    text-align: center;
+    background-color: #EEEEEE;
+    margin: 0 3% 0 3%;
+}
+
+.search-bar * {
+    margin-top: 2px;
+}
+
+.info-bar{
+    padding:5px 3%;
+}
+
+.info-bar p{
+    margin: 1px;
+    text-align: center;
+}
+
+.bottom-side{
+    display: inline-block;
+    padding: 20px 12.3%; 
+    margin-left: 0px;
+}
+
+.bar-1{
+    background-color: #7EE5DA;
+}
+
+.bar-2{
+    background-color: #70CCC2;
+}
+
+.bar-3{
+    background-color: #62B3AA;
+}
